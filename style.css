@@ -12,6 +12,14 @@ nav{
     background-color: pink;
 }
 
+.name > h3{
+        text-align: center;
+}
+
+.name > p{
+        text-align: center;
+}
+
 .header{
     
 }
